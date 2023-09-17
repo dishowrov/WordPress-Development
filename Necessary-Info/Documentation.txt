@@ -1,0 +1,14 @@
+Documentation:
+--------------
+
+I don't know PHP language as well as such a beginner in the JavaScript language. I have tried to follow your provided WP assessment to complete the WordPress-related task. But since I don't know both programming languages properly I took help from Artificial Intelligence like ChatGPT and Bard. 
+
+I'm sorry for that if I broke any rule of yours. But I wanted to touch the Task #2 as well. So, I may not be able to provide clear documentation on how I set up post types and model functionality. But to be honest, I followed the Artificial Intelligence for this task about 95% of the time.
+
+Finally, the 'Projects' are displayed on the webpage. Although I know that my complete task is not completely as per your requirements! Though I am not very good at development, I had a lot of fun doing the work which I will probably remember in my life indeed.
+
+Location of the file:
+~~~~~~~~~~~~~~~~~~~~
+WordPress Dev Task\wp-content\themes\hello-elementor\custom-projects-template.php
+
+
